@@ -5,7 +5,7 @@
 }
 
 :root {
-    --color-primary: #3b82f6;
+    --color-primary: #86EFAC;
     --color-background: #ffffff;
     --color-text: #1f2937;
     --spacing: 1rem;
@@ -78,11 +78,11 @@ footer {
 }
 
 .input-section button:hover {
-    background-color: #2563eb;
+    background-color: #4ADE80;
 }
 
 .input-section button:active {
-    background-color: #1d4ed8;
+    background-color: #22C55E;
 }
 
 /* Filter buttons (Feature 2) */
@@ -160,7 +160,7 @@ footer {
 .todo-delete {
     flex-shrink: 0;
     padding: 0.5rem 0.75rem;
-    background-color: #ef4444;
+    background-color: #86EFAC;
     color: white;
     border: none;
     border-radius: 0.375rem;
@@ -171,9 +171,9 @@ footer {
 }
 
 .todo-delete:hover {
-    background-color: #dc2626;
+    background-color: #4ADE80;
 }
 
 .todo-delete:active {
-    background-color: #b91c1c;
+    background-color: #22C55E;
 }
